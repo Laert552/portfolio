@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/app
+!/app/**
+!/package.json
+!/package-lock.json
+!/postcss.config.js
+!/tsconfig.json
+!/next.config.ts
